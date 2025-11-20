@@ -9,7 +9,7 @@ permalink: /dmpplan.html
 
 This is my data management plan
 
-[This is a link to my metadata application profile.]1(http://www.google.com)
+[This is a link to my metadata application profile.](/objects/Groups 1 - MAP.pdf) 
 
 bandana 
 
