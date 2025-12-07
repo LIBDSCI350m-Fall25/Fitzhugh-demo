@@ -11,5 +11,5 @@ This is my data management plan
 
 [This is a link to my metadata application profile.](/objects/Group 1 - MAP.pdf) 
 
-bandana 
+
 
